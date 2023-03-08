@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/maxliu/catkin_ws_open3d/install/setup.sh

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/maxliu/catkin_ws/src/starter_proj/build/devel/setup.sh
