@@ -1,2 +1,0 @@
-ddynamic_reconfigure:open3d_ros:realsense-ros/realsense2_camera:realsense-ros/realsense2_description:starter_proj
--DCATKIN_DEVEL_PREFIX=/home/maxliu/catkin_ws_open3d/devel -DCMAKE_INSTALL_PREFIX=/home/maxliu/catkin_ws_open3d/install -G Unix Makefiles
